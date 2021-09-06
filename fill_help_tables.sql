@@ -65,14 +65,6 @@ INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES 
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (20,'Encryption Functions',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (21,'Locking Functions',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (22,'Information Functions',4,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (25,'WKB Functions',23,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (26,'Geometry Constructors',23,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (27,'Geometry Property Functions',23,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (28,'Point Property Functions',23,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (29,'LineString Property Functions',23,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (30,'Polygon Property Functions',23,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (31,'GeometryCollection Property Functions',23,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (32,'Geometry Relation Functions',23,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (34,'GTID',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (35,'Aggregate Functions and Modifiers',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (36,'GROUP BY Functions and Modifiers',4,'');
@@ -80,13 +72,10 @@ INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES 
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (38,'Data Definition',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (39,'Data Manipulation',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (40,'Transactions',0,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (41,'Replication Statements',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (42,'Prepared Statements',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (43,'Compound Statements',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (44,'Account Management',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (45,'Table Maintenance',0,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (46,'Loadable Functions',0,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (47,'Plugins',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (48,'Utility',0,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (49,'Storage Engines',0,'');
 
