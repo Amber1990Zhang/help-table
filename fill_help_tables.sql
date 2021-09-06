@@ -60,10 +60,8 @@ INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES 
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (15,'Date and Time Functions',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (16,'String Functions',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (17,'Cast Functions and Operators',4,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (18,'XML',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (19,'Bit Functions',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (20,'Encryption Functions',4,'');
-INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (21,'Locking Functions',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (22,'Information Functions',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (34,'GTID',4,'');
 INSERT INTO help_category (help_category_id,name,parent_category_id,url) VALUES (35,'Aggregate Functions and Modifiers',4,'');
